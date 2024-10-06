@@ -24,6 +24,8 @@ const message = (a === b && b === c) ? "Les trois variables sont identiques" :
 </body>
 </html>
 
+<!-- https://onecompiler.com/javascript/42ube3dwm -->
+
 <!-- // Declare and define three variables using a numerical value
 
 // * If the three variables are equal, display "The three variables are the same" in the console
