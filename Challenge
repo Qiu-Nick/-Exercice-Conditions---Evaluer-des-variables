@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+
+let a = 1; 
+let b = 1;
+let c = 1;
+
+const message = (a === b && b === c) ? "Les trois variables sont identiques" :
+                (a === b || a === c || b === c) ? "Deux des variables sont identiques" : 
+                "toutes les variables sont différentes" ;
+                console.log (message);
+
+
+    </script>
+    
+</body>
+</html>
+
+<!-- // Declare and define three variables using a numerical value
+
+// * If the three variables are equal, display "The three variables are the same" in the console
+// * If only two of the variables are equal, display "Two of the variables are the same" in the console
+// * If the variables are all different display "all variables are different" in the console -->
